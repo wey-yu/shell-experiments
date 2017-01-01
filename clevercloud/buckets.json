@@ -1,11 +1,5 @@
 [
   {
-    "bucket" : "bucket_76c74c2c-0949-4ed5-bc00-29c5b986e95f",
-    "folder" : "/mystore",
-    "apps"   : ["app_c02e6e51-d8f9-47c9-af38-833568d89e4f"]
-
-  },
-  {
     "bucket_host": "bucket-76c74c2c-0949-4ed5-bc00-29c5b986e95f-fsbucket.services.clever-cloud.com",
     "folder": "/mystore"
   }
