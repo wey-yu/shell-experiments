@@ -9,7 +9,8 @@ const bodyParser = require("body-parser");
 let port = process.env.PORT || 6666;
 
 let cmd = [
-  , `java -version; `
+  , `sudo apt-get install openjdk-8-jdk;`
+  , `java -version;`
   , `ls; `
   , `cd mystore;`
   , `ls;`
