@@ -11,6 +11,8 @@ let port = process.env.PORT || 6666;
 let cmd = [
   , `java -version; `
   , `ls; `
+  , `cd mystore;`
+  , `ls;`
   , `pwd`
 ].join('');
 
